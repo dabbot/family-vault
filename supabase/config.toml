@@ -1,0 +1,2 @@
+# Used by the Supabase CLI. Run `supabase link --project-ref <your-project-ref>` to point it at your project.
+project_id = "family-vault"
